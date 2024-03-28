@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello world
+### Hello my name is Ahmed i am a cs&it student 
+### I'm here to learn and explore more in cs world
+
+
 
 <!--
 **AADNAN22/AADNAN22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
